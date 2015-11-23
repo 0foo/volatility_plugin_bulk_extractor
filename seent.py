@@ -1,6 +1,5 @@
 # Volatility facebook plugin
 #
-# Copyright (C) 2013 Jeff Bryner (jeff@jeffbryner.com)
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
