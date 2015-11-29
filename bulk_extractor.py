@@ -42,7 +42,7 @@ def safestring(badstring):
         """makes a good strings out of a potentially bad one by escaping chars out of printable range"""
         return safestringre.sub('',badstring)
 
-class Seent(commands.Command):
+class BulkExtractor(commands.Command):
     """Retrieve browser artifacts from a memory image"""
 
     def __init__(self, config, *args, **kwargs):
